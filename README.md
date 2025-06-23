@@ -13,7 +13,7 @@ A simple weather app made using HTML, CSS & JavaScript. It fetches real-time wea
 👉 https://github.com/Pallavidhote3/Weather-App
 
 ## 📸 Screenshot
-
+https://github.com/Pallavidhote3/Weather-App/blob/main/Screenshot%201.png
 
 ## ✅ Features
 - 🌦️ Get current weather of any city
