@@ -10,7 +10,7 @@ A simple weather app made using HTML, CSS & JavaScript. It fetches real-time wea
 - OpenWeatherMap API
 
 ## 🔗 Live Demo
-👉 [Click here to view live](https://yourusername.github.io/weather-app/)
+👉 https://github.com/Pallavidhote3/Weather-App
 
 ## 📸 Screenshot
 ![App Screenshot](screenshot.png)
